@@ -1,3 +1,3 @@
-wheelPipeline(
+wheelJob(
     upstream: [ 'wheelhouse-init' ]
 )
